@@ -12,7 +12,7 @@
  3. Gukesh D
  4. Ramesh babu
 
- Tirupathi
- Chennai
- Nellore
- Delhi
+ - Tirupathi
+ - Chennai
+ - Nellore
+ - Delhi

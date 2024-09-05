@@ -14,3 +14,14 @@ My favorite food is Chicken Biryani because i like the taste and smell,it gives 
 |Peerma Biryani  |This restaurent provides best hygienic food and good taste       | Nellore  |
 |Guntur Gongura  |This food belongs to guntur spices and it gives best food        | Gudur    |
 |A2B             |This restaurent gives only veg food different dishes with ghee   | Chennai  |
+
+ -----------   --------
+
+
+ ### Humorous Quotes
+ >Why did the math book look sad? it had too many problems.
+ >
+ >How do you organize a space party? You planet.
+ >
+ *Author : Durgesh Ram Das Raju*
+ 

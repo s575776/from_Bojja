@@ -24,4 +24,14 @@ My favorite food is Chicken Biryani because i like the taste and smell,it gives 
  >How do you organize a space party? You planet.
  >
  *Author : Durgesh Ram Das Raju*
- 
+
+
+ ------------- --------- ----------
+
+ ### Code Fencing
+ Create a virtual environment in Python to `manage dependencies`.
+ ```
+ python -m venv projectnamevenv
+ ```
+ [Source snippet](https://code.pieces.app/collections/python)
+
